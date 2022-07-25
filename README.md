@@ -82,7 +82,7 @@
   <a href="https://www.instagram.com/do_phuoc_dat/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="dophuocdat-instagram" />
   </a>
-  <a href="datdo775@gmail.com" target="top">
+  <a href="mailto:datdo775@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="dophuocdat-email" />
   </a>
 </div>
