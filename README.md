@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+<!--dophuocdat -->
 <a href="#" target="_blank">
   <img src="svg/dophuocdat.svg" width="1200" alt="dophuocdat" />
 </a>
