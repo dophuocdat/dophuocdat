@@ -76,8 +76,8 @@
   <a href="https://www.youtube.com/channel/UC3pBg-cuii3G-_YcW0DRaSg" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="dophuocdat-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="#" alt="dophuocdat-linkedin" />
+  <a href="#" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="dophuocdat-linkedin" />
   </a>
   <a href="https://www.instagram.com/do_phuoc_dat/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="dophuocdat-instagram" />
