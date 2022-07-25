@@ -70,19 +70,19 @@
 <!--   <a href="https://trungquandev.com" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="dophuocdat-blog" />
   </a> -->
-  <a href="https://facebook.com/trungquandev" target="blank">
+  <a href="https://www.facebook.com/dpd.0512" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dophuocdat-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
+  <a href="https://www.youtube.com/channel/UC3pBg-cuii3G-_YcW0DRaSg" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="dophuocdat-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="dophuocdat-linkedin" />
+    <img src="#" alt="dophuocdat-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
+  <a href="https://www.instagram.com/do_phuoc_dat/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="dophuocdat-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
+  <a href="datdo775@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="dophuocdat-email" />
   </a>
 </div>
