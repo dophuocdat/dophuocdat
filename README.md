@@ -57,7 +57,7 @@
     <img width="315" align="center" src="svg/MostUsedLanguages.svg"/>
   </a>
   <a href="#" title="dophuocdat">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="svg/PhuocdatStart.svg" />
   </a>
 </div>
 
